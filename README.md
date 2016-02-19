@@ -13,10 +13,10 @@ Copy this to create a new issue with the template.
 ## Roles:
 Owner: 
 Involved: 
+Informed: 
 
 ## Required: 
-- [ ] Put mittens on all of the kittens (owner, [small, medium, large], Due: Aug 7th) 
-- [ ] Put mittens on all of the kittens (owner, [small, medium, large], Due: Aug 7th) 
-- [ ] Put mittens on all of the kittens (owner, [small, medium, large], Due: Aug 7th) 
+- [ ] Put mittens on all of the kittens (owner, Due: Aug 7th) 
+- [ ] Put mittens on all of the kittens (owner, Due: Aug 7th) 
 
 ```
